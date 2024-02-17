@@ -1,8 +1,9 @@
-# Project-Ongoing!!!
+# C# Fundamentals Quiz - Test Your Basic Knowledge
 
-Exciting news! We're thrilled to announce that a new project is currently in production and set to be released soon. Stay tuned for updates as we work diligently to bring this endeavor to fruition. We can't wait to share it with you!
+A simple console application that quizzes users on fundamental concepts of the C# programming language.
 
+## About The Project:
 
+This project consists of a set of multiple-choice questions designed to test users' understanding of basic C# programming concepts. Users can run the console application, answer questions, and receive feedback on their performance. It serves as a quick and interactive way for learners to reinforce their knowledge of C# fundamentals.
 
-
-A Template for My Project That Soon To Be Release
+Feel free to use this template and customize the details as needed for your project on GitHub!
