@@ -7,3 +7,6 @@ A simple console application that quizzes users on fundamental concepts of the C
 This project consists of a set of multiple-choice questions designed to test users' understanding of basic C# programming concepts. Users can run the console application, answer questions, and receive feedback on their performance. It serves as a quick and interactive way for learners to reinforce their knowledge of C# fundamentals.
 
 Feel free to use this template and customize the details as needed for your project on GitHub!
+
+## Tools Used in This Project
+<img src="https://skillicons.dev/icons?i=vscode,git,cs,dotnet" />
